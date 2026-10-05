@@ -8,7 +8,7 @@
 #include <cmath>
 #include <thread>
 #include <chrono>
-#include "include/ImageUtils.hpp"
+#include "ImageUtils.hpp"
 
 namespace fs = std::filesystem;
 

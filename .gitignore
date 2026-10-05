@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+obj/
+stair_detector
+profil.csv
+result.txt
+__pycache__/
